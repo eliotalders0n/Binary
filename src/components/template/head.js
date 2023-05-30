@@ -14,7 +14,7 @@ function Head(props) {
         </Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
-          <Col md={1}>
+          {/* <Col md={1}>
             <Nav.Link className=" display-3" 
               href="#location"
               style={{ fontSize: "2vh",   }}
@@ -37,7 +37,7 @@ function Head(props) {
             >
               About
             </Nav.Link>
-          </Col>
+          </Col> */}
 
           <Col md={2}>
             <Nav.Link className=" display-5" 
