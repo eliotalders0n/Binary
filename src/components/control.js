@@ -27,7 +27,6 @@ function Control(props) {
       <Head />
 
       <Container
-        fluid
         style={{
           height: "100%",
         }}
